@@ -1,5 +1,5 @@
-# antd-mobile with webpack
-
+# 独数游戏 
+使用 antd-mobile with webpack
 basic proj demo with webpack@2 and tree-shaking
 
 ### Install & Start
